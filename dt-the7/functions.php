@@ -583,22 +583,22 @@ if ( ! function_exists( 'presscore_enqueue_scripts' ) ) :
 		// website version css folder
 		$site = get_bloginfo('name');
 		$folder = '../dt-the7-child/css/css/';
-		$maincss = '../dt-the7-child/css/css/style.css';
+		$maincss = '/wp-content/themes/dt-the7-child/css/css/style.css';
 
 		switch ( $site ) {
 			case 'ShopperBarn':
 				$folder = '../dt-the7-child/css/css/';
-				$maincss = '../dt-the7-child/css/css/style.css';
+				$maincss = '/wp-content/themes/dt-the7-child/css/css/style.css';
 				break;
 
 			case 'OnlyOneStopShop':
 				$folder = '../dt-the7-child/css/css-oss/';
-				$maincss = '../dt-the7-child/css/css/style-oss.css';
+				$maincss = '/wp-content/themes/dt-the7-child/css/css/style-oss.css';
 				break;
 
 			case 'BWD':
 				$folder = '../dt-the7-child/css/css/';
-				$maincss = '../dt-the7-child/css/css/style.css';
+				$maincss = '/wp-content/themes/dt-the7-child/css/css/style.css';
 				break;
 		}
 
