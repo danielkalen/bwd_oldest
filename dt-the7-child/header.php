@@ -20,9 +20,9 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<title><?php echo presscore_blog_title(); ?></title>
 	<?php if ( get_bloginfo('name') === 'OnlyOneStopShop' ) { ?>
-		<link rel="icon" href="/wp-content/themes/dt-the7-child/imgo/favicon2.ico" type="image/x-icon">
+		<link rel="icon" href="/wp-content/themes/dt-the7-child/img/favicon2.ico" type="image/x-icon">
 	<?php } else { ?>
-		<link rel="icon" href="/wp-content/themes/dt-the7-child/imgo/favicon1.ico" type="image/x-icon">
+		<link rel="icon" href="/wp-content/themes/dt-the7-child/img/favicon1.ico" type="image/x-icon">
 	<?php } ?>
 	<!--[if IE]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>

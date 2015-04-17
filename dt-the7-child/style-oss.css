@@ -4195,7 +4195,6 @@ h1, h2, h3, h4, h5, h6 {
     clear: both !important;
     width: 100%; }
     #footer #text-5 #footer-divider {
-      background: url(../dt-the7/images/footer.jpg) no-repeat;
       background-size: 100% 100%;
       width: 105.8%;
       height: 85px;
@@ -4203,6 +4202,10 @@ h1, h2, h3, h4, h5, h6 {
       position: relative;
       right: 29px;
       z-index: 4; }
+      .shopperbarn #footer #text-5 #footer-divider, .bwd #footer #text-5 #footer-divider {
+        background: url(img/footer.jpg) no-repeat; }
+      .onlyonestopshop #footer #text-5 #footer-divider {
+        background: url(img/footer-oss.jpg) no-repeat; }
       @media screen and (max-width: 900px) {
         #footer #text-5 #footer-divider {
           height: 70px;

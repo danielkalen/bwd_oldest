@@ -193,7 +193,13 @@
     width: 100%;
       #footer-divider {
         //margin-left:-29px !important;
-        background:url(../dt-the7/images/footer.jpg) no-repeat;
+        .shopperbarn &,
+        .bwd & {
+          background:url(img/footer.jpg) no-repeat;
+        }
+        .onlyonestopshop & {
+          background:url(img/footer-oss.jpg) no-repeat;
+        }
         background-size: 100% 100%;
         width: 105.8%;
         height: 85px;
