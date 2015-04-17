@@ -580,13 +580,29 @@ if ( ! function_exists( 'presscore_enqueue_scripts' ) ) :
 	 */
 	function presscore_enqueue_scripts() {
 
+		// website version css folder
+		$site = get_bloginfo('name');
+		$folder = '../dt-the7-child/css/css/';
 
+		switch ( $site ) {
+			case 'ShopperBarn':
+				$folder = '../dt-the7-child/css/css/';
+				break;
+
+			case 'OnlyOneStopShop':
+				$folder = '../dt-the7-child/css/css-oss/';
+				break;
+
+			case 'BWD':
+				$folder = '../dt-the7-child/css/css/';
+				break;
+		}
 
 		// if (is_woocommerce() || is_page('checkout') || is_page('cart') || is_page('account') || is_page('quick-order') || is_page('view-order')|| is_search()  ) {
 		if ( !is_front_page() ) {
-			presscore_enqueue_theme_stylesheet( 'dk-brands', '../dt-the7-child/css/css/brands-styles' );
-			presscore_enqueue_theme_stylesheet( 'dk-woocommerce', '../dt-the7-child/css/css/woocommerce' );
-			presscore_enqueue_theme_stylesheet( 'dk-dt-custom', '../dt-the7-child/css/css/wc-dt-custom' );
+			presscore_enqueue_theme_stylesheet( 'dk-brands', $folder . 'brands-styles' );
+			presscore_enqueue_theme_stylesheet( 'dk-woocommerce', $folder . 'woocommerce' );
+			presscore_enqueue_theme_stylesheet( 'dk-dt-custom', $folder . 'wc-dt-custom' );
 		}
 
 		if ( is_page(32) ) {
@@ -605,41 +621,41 @@ if ( ! function_exists( 'presscore_enqueue_scripts' ) ) :
 
 		if ( is_page('login') || is_page('register') || is_page('wholesale-apply') || is_checkout()) {
 			presscore_enqueue_theme_script( 'dk-login', 'js/login' );
-			presscore_enqueue_theme_stylesheet( 'dk-modal', '../dt-the7-child/css/css/login-modal' );
+			presscore_enqueue_theme_stylesheet( 'dk-modal', $folder . 'login-modal' );
 		}
 
 		if ( is_page('account') || is_page('quick-order') || is_page('edit') || is_page('request-return-form') || is_page('wholesale-apply') || is_page('view-order') || is_page('checkout-2')) {
-			presscore_enqueue_theme_stylesheet( 'dk-account', '../dt-the7-child/css/css/account' );
+			presscore_enqueue_theme_stylesheet( 'dk-account', $folder . 'account' );
 		}
 
 		if ( is_cart() || is_checkout() ) {
-			presscore_enqueue_theme_stylesheet( 'dk-cart', '../dt-the7-child/css/css/cart' );
-			presscore_enqueue_theme_stylesheet( 'dk-cart-empty', '../dt-the7-child/css/css/cart-empty' );
+			presscore_enqueue_theme_stylesheet( 'dk-cart', $folder . 'cart' );
+			presscore_enqueue_theme_stylesheet( 'dk-cart-empty', $folder . 'cart-empty' );
 		}
 
 		if ( is_checkout() || is_page('wholesale-apply') || is_page('request-return-form')) {
-			presscore_enqueue_theme_stylesheet( 'dk-checkout', '../dt-the7-child/css/css/checkout' );
+			presscore_enqueue_theme_stylesheet( 'dk-checkout', $folder . 'checkout' );
 		}
 
 		if ( is_page('contact-us') || is_page(263) ) {
-			presscore_enqueue_theme_stylesheet( 'dk-contact', '../dt-the7-child/css/css/contact' );
-			presscore_enqueue_theme_stylesheet( 'dk-contact-form', '../dt-the7-child/css/css/contact-form' );
+			presscore_enqueue_theme_stylesheet( 'dk-contact', $folder . 'contact' );
+			presscore_enqueue_theme_stylesheet( 'dk-contact-form', $folder . 'contact-form' );
 		}
 
 		if ( is_404() || is_search() || is_product_category()) {
-			presscore_enqueue_theme_stylesheet( 'dk-error404', '../dt-the7-child/css/css/error404' );
+			presscore_enqueue_theme_stylesheet( 'dk-error404', $folder . 'error404' );
 		}
 
 		if ( is_page('login') || is_page('register') || is_page('edit')) {
-			presscore_enqueue_theme_stylesheet( 'dk-login', '../dt-the7-child/css/css/login' );
+			presscore_enqueue_theme_stylesheet( 'dk-login', $folder . 'login' );
 		}
 
 		if ( is_page('specials')) {
-			presscore_enqueue_theme_stylesheet( 'dk-specials', '../dt-the7-child/css/css/specials' );
+			presscore_enqueue_theme_stylesheet( 'dk-specials', $folder . 'specials' );
 		}
 
 		if ( is_page('account') || is_page('quick-order') || is_page('view-order') || is_cart() || is_page('checkout-2')) {
-			presscore_enqueue_theme_stylesheet( 'dk-specials', '../dt-the7-child/css/css/table' );
+			presscore_enqueue_theme_stylesheet( 'dk-specials', $folder . 'table' );
 		}
 
 		// theme stylesheet
