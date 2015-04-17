@@ -1,0 +1,1135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prod",
+				"product_size"
+			],
+			[
+				"div",
+				"divider-color"
+			],
+			[
+				"fst",
+				"fst-n	font-stretch: normal;"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"left",
+				"leftDistance"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"min",
+				"min"
+			],
+			[
+				"top",
+				"text-top"
+			],
+			[
+				"get_templa",
+				"get_template_directory_uri"
+			],
+			[
+				"com",
+				"com"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"ti",
+				"ti--	text-indent: -9999px;"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/order/order-details.php",
+			"settings":
+			{
+				"buffer_size": 4956,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/notices/success.php",
+			"settings":
+			{
+				"buffer_size": 501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dt-the7/js/main_js_only.bak.js",
+			"settings":
+			{
+				"buffer_size": 76862,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dt-the7/js/main_js_only.bak.min.js",
+			"settings":
+			{
+				"buffer_size": 76761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dt-the7-child/css/global/override.scss",
+			"settings":
+			{
+				"buffer_size": 11216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dt-the7/page.php",
+			"settings":
+			{
+				"buffer_size": 1096,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ex",
+				"ExpandRegion"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/cart/cart-shipping.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce-cart-notices/woocommerce-cart-notices.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/notices/notice.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/js/notificationFx.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/notifications.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.min.js",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/jck_woo_quickview/inc/qv-desc.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/sidebar.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/parts/table.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/parts/checkout.scss",
+		"/Users/gazelle/Desktop/meni.html",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/parts/login.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/widgets/blog-posts.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/js/login.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/widgets/blog-categories.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/checkout/review-order.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/checkout/form-billing.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce-shipping-ups/classes/class-wc-shipping-ups.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/top-bar.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/hide.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/override.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/cart/cart.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/mod-woocommerce/mod-woocommerce-mini-cart.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/single-product/title.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/jck_woo_quickview/inc/qv-title.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/content-widget-product.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/override-woo.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/loop/rating.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/titles.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/mlpushmenu.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/woo-global.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/quick-view.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/page-home.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/single-product-page.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/cart/mini-cart.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/loop/add-to-cart.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/js/main.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/js/main.min.js",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.minbackup.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/sep/wc-dt-custom.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/sep/woocommerce.scss",
+		"/Applications/MAMP/shopperbarn_test/wp-content/plugins/woocommerce/templates/single-product/title.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/extensions/core-functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/footer.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/mod-woocommerce/mod-woocommerce.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/mod-woocommerce/mod-woocommerce-breadcrumb.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/widgets/custom-menu-1.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php",
+		"/Applications/MAMP PRO/MAMP PRO.app/Contents/Resources/php5.4.26.ini",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/loop/result-count.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/single-product/short-description.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/template-tags.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/single-product/rating.php",
+		"/Users/gazelle/Library/Caches/Cleanup At Startup/Transmit/DFDF33B7-CA3D-4D1E-83BA-0E910072EFA7/wc-template-functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/wc-template-functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/wc-template-hooks.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/mod-woocommerce/min/mod-woocommerce-custom-ck.js",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/woocommerce.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/single-product/review.php",
+		"/Applications/MAMP/shopperbarn/wp-includes/plugin.php",
+		"/Users/gazelle/Library/Caches/Cleanup At Startup/Transmit/8445B8BE-5498-4FD9-9A25-33181E6FBD76/review.php",
+		"/Applications/MAMP PRO/MAMP PRO.app/Contents/Resources/php5.5.10.ini",
+		"/Users/gazelle/Desktop/newrelic-php5-4.19.0.90-osx/scripts/newrelic.ini.template",
+		"/Applications/MAMP/bin/php/php5.4.26/conf/php.ini",
+		"/Library/Application Support/appsolute/MAMP PRO/conf/php.ini",
+		"/Applications/MAMP/bin/php/php5.5.10/conf/php.ini",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/archive-product.php",
+		"/Users/gazelle/Library/Caches/Cleanup At Startup/Transmit/0E17ACC7-6EAD-4EF2-B127-F0E1824879B1/scripts.js",
+		"/Applications/MAMP/shopperbarn_test/wp-content/plugins/woocommerce/templates/single-product.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/admin/admin-functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/extensions/class-tgm-plugin-activation.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/clean-retina/library/functions/functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/index.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/404.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/image.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/index.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/page.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/search.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/single.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/archive.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/clean-retina/content-leftsidebar.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/clean-retina/content-rightsidebar.php",
+		"/Applications/MAMP/shopperbarn/wp-config.php",
+		"/Applications/MAMP/conf/php5.4.25/php.ini",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/header.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/wc-core-functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/wpbakery/js_composer/include/classes/settings/class-vc-settings.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/helpers.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/classes/presscore-config.class.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/inc/init.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/php-code-widget/execphp.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/content-single-product.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce-customer-history/includes/class-wcch-cookie-helper.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce-customer-history/includes/track-history.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/includes/wc-notice-functions.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/content-product_cat.php",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/single-product.php",
+		"/Applications/MAMP/shopperbarn/a.htaccess",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/style.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/single-product/related.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/media.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/style.css",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/nav.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/home-scroller.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/product-scroller.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/jck_woo_quickview/jck_woo_quickview.php",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/js/main_js_only.bak.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7/js/main_js_only.bak.min.js",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/parts/cart-empty.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/mini-cart.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/cart/cart-totals.php",
+		"/Applications/MAMP/shopperbarn/license.txt",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/custom-dt.scss",
+		"/Applications/MAMP/shopperbarn/wp-content/themes/dt-the7-child/css/global/prevmain.scss",
+		"/Applications/MAMP/shopperbarn_test/wp-content/w3tc-config/master-admin.php",
+		"/Applications/MAMP/shopperbarn_test/wp-content/w3tc-config/master.php",
+		"/Applications/MAMP/shopperbarn_test/wp-content/w3tc-config/index.html",
+		"/Applications/MAMP/shopperbarn/.htaccess",
+		"/Users/gazelle/Documents/Cracked Apps/Topaz Photoshop Plugins Bundle July 2014 (MAC) [ChingLiu]/keys.txt",
+		"/Users/gazelle/Library/Caches/Cleanup At Startup/Transmit/D943D682-C1FA-493E-B730-49AA3802834C/wp-config.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce",
+			"<open folders>",
+			"/Applications/MAMP/snapmagnet/wp-content/plugins/gravityforms",
+			"/Applications/MAMP/snapmagnet/wp-content/plugins/gravityforms/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"notify-box",
+			"		<?php echo apply_filters( 'woocommerce_no_shipping_available_html',\n					'<div class=\"notify-box\"><div class=\"ns-box ns-growl ns-effect-loadingcircle ns-type-success ns-show\"><div class=\"ns-box-inner\"><p>' . __( 'There aren&lsquo;t any shipping methods for the given address.', 'woocommerce' ) . '</p></div><span class=\"ns-close\"></span></div></div>'\n				); ?>\n",
+			"<p>' . __( 'There aren&lsquo;t any shipping methods for the given address.', 'woocommerce' ) . '</p><",
+			"opacity",
+			"ns-hide",
+			"ns-show",
+			"n&#8217",
+			"\\'",
+			"onclo",
+			"1",
+			"25",
+			"onclo",
+			"onclose",
+			"notify-box",
+			"@gmail",
+			"EmailAddress",
+			"emailAddress",
+			"remoteIp",
+			" remoteIp",
+			"subtotal",
+			"product-name",
+			"_size",
+			"text_field",
+			"There doesn&lsquo;t seem to be any",
+			"NotificationFx.prototype.dismiss",
+			"dismiss",
+			"$_",
+			"el",
+			"login",
+			"login.js",
+			"userpro-checkbox-wrap",
+			"important",
+			"Blog posts",
+			"is_f",
+			"is_",
+			"woocommerce_cart_item_price_html",
+			"woocommerce_cart_item_price_html ",
+			"woocommerce_cart_item_price_html",
+			"woocommerce_cart_item_price_html ",
+			";",
+			"?>",
+			" ?>",
+			"<?php ",
+			"product_",
+			"product-content",
+			"$post->post_content",
+			";",
+			"lateY(-50%), ",
+			"eY(-50%)",
+			"translateY(-50%)",
+			"90%",
+			"width: 90%",
+			"90",
+			"notification",
+			"product_title",
+			"Blog categories",
+			"Blog",
+			"presscore-blog-categories-2",
+			"cats",
+			"$before",
+			"custom-menu-1",
+			"dt-custom",
+			"woocommerce_single_product_summary",
+			"woocommerce_result_count",
+			"ajax",
+			"enqueue",
+			"woocommerce_result_count",
+			"newrel",
+			"hide_empty",
+			"go",
+			"wp_footer",
+			"do_action('presscore_after_content');",
+			"get_sidebar(",
+			"get_sidebar()",
+			"presscore_after_content",
+			"presscore_body_top",
+			"add_action",
+			"presscore_primary_navigation",
+			"after_content",
+			"presscore_enqueue_theme_stylesheet",
+			"enqueue",
+			"presscore_after_content",
+			"presscore_after",
+			"orderby",
+			"hide_empty",
+			"device_type",
+			"$device_type",
+			"wp_deb",
+			"//if (",
+			"woocommerce_result_count",
+			"before_shop",
+			"count",
+			"max_input_vars",
+			"1000",
+			"variables",
+			"li.product",
+			"//shopperbarn.com",
+			"owl",
+			"products",
+			"ul.product",
+			"ul.product ",
+			"$leftDistance = $leftDistance",
+			".products')",
+			"if",
+			"-false",
+			".owl",
+			"#header",
+			"box-shadow",
+			"body",
+			"woo",
+			"ul.product_list_widget",
+			"ul.product-List_widget",
+			"widget",
+			"star-rating",
+			"product-li",
+			"#ce337b",
+			"ce337b",
+			"shipping-method-dd",
+			"none",
+			"_virtual",
+			"\"] ",
+			",",
+			"can_publish",
+			"user_can",
+			"user",
+			"post-type-banner",
+			"admin_bar",
+			"enqueue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$primary-color"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/order/order-details.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4075,
+								4075
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1487.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/MAMP/shopperbarn/wp-content/plugins/woocommerce/templates/notices/success.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								479
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 246.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dt-the7/js/main_js_only.bak.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75848,
+								75848
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 9738.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dt-the7/js/main_js_only.bak.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75725,
+								75725
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 80575.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dt-the7-child/css/global/override.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1347,
+								1347
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dt-the7/page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "shopperbarn.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/getvoip/gv_main/sites/all/gv_sky.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
