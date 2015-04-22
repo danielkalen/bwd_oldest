@@ -4527,11 +4527,14 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     bottom: 2px;
     left: 0px;
-    background-image: url(css/sprites.png);
     background-repeat: no-repeat;
     background-position: -317px -237px;
     width: 6px;
     height: 7px; }
+    .shopperbarn .custom-nav .has-children > a:after, .bwd .custom-nav .has-children > a:after {
+      background-image: url(css/sprites.png); }
+    .onlyonestopshop .custom-nav .has-children > a:after {
+      background-image: url(css/sprites-oss.png); }
 
 .custom-nav .has-children > a.active:after {
   background-position: -316px -246px;

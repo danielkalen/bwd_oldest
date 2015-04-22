@@ -335,11 +335,19 @@
       position: absolute;
       bottom: 2px;
       left: 0px;
-      background-image: url(css/sprites.png);
       background-repeat:no-repeat; 
       background-position:  -317px -237px;
       width: 6px;
       height: 7px;
+
+        .shopperbarn &,
+        .bwd & {
+          background-image: url(css/sprites.png);
+        }
+
+        .onlyonestopshop & {
+          background-image: url(css/sprites-oss.png);
+        }
     }
 }
 .custom-nav .has-children > a.active {
