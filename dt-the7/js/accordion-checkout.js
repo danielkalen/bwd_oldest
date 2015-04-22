@@ -35,6 +35,10 @@ jQuery(document).ready(function($) {
 		$('.payment-section').slideDown('slow');
 	});
 
+	// $('#section3').on('click', '.terms a', function(e){
+	// 	e.preventDefault();
+	// });
+
 	$(document).ajaxComplete(function(){
 
 		$('#stripe-cc-form').append('<p class="form-row form-row-wide"><label for="stripe-card-name">Card Holder\'s name <span class="required">*</span></label><input id="stripe-card-name" class="input-text wc-credit-card-form-card-name" type="text" autocomplete="off" placeholder="Card Holder\'s name" name=""></p>');

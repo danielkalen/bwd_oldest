@@ -1,5 +1,10 @@
 @import '../global/vars';
 
+.shopperbarn-cart-notice.notify-box {
+  bottom: 110px;
+}
+
+
 .accordion {
   padding:15px 44px 13px;
   background: $primary-color;
@@ -364,7 +369,7 @@
       display: block !important;
       margin: 0 auto !important;
     }
-    .checkbox {width: 100% !important; background: none !important;}
+    .checkbox.checkbox.checkbox {width: 100% !important; background: none !important;}
 
     .terms.form-row {
       padding: 0 !important;
