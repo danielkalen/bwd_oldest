@@ -1,11 +1,14 @@
 .address, .email-icon, .emailicon, .hours, .nameicon, .phone-icon, .phoneicon, .resize, .left, .lefth, .pageLeft, .pageLefth, .pageRight, .pageRighth, .right, .righth, .f-Facebook, .f-Pinterest, .f-Twitter, .openindicator, .radio-filled, .radio, .checkbox, .checkbox-filled, .Cart-reg, .Cart-hover, .Phone-icon, .Phone-iconn, .Email-iconn, .Search-icon, .t-facebook, .t-facebookh, .t-gplus, .t-gplush, .t-pinterest, .t-pinteresth, .t-twitter, .t-twitterh, .Gift-icon, .PDF-File, .listh, .list, .gridlayout, .gridlayouth, .Minus, .Plus, .Cat_go, .Cat_goh, .lefts, .New-ribbon, .rights, .Sale-ribbon, .Slider-bubble, .facebook, .facebookh, .gplus, .gplush, .pinterest, .pinteresth, .twitter, .twitterh, .phone-sidebar, .email-sidebar, .logo-main, .logo-bottom {
-    .shopperbarn &,
-    .bwd & {
+    .shopperbarn & {
 		background-image: url(css/sprites.png) !important;
     }
 
     .onlyonestopshop & {
 		background-image: url(css/sprites-oss.png) !important;
+    }
+
+    .onlyonestopshop & {
+		background-image: url(css/sprites-bwd.png) !important;
     }
 }
 

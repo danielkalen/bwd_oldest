@@ -1487,6 +1487,177 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/dt-the7-child\/css\/css-oss\/account.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/account.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/brands-styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/brands-styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/cart-empty.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/cart-empty.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/cart.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/cart.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/checkout.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/checkout.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/contact-form.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/contact-form.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/contact.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/contact.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/error404.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/error404.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/jckqv-styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/jckqv-styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/login-modal.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/login-modal.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/login.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/login.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/single-product-page.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/single-product-page.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/specials.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/specials.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/table.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/table.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/wc-dt-custom.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/wc-dt-custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/woo-global.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/woo-global.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/woocommerce.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/woocommerce.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/wpb_product_slider.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/wpb_product_slider.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/dt-the7-child\/css\/css-oss\/wpbedit.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/css-oss\/wpbedit.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/dt-the7-child\/css\/css\/account.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -2298,6 +2469,17 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/dt-the7-child\/css\/sprites-bwd.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43942,
+		"inputAbbreviatedPath": "\/dt-the7-child\/css\/sprites-bwd.png",
+		"outputAbbreviatedPath": "\/dt-the7-child\/css\/sprites-bwd.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dt-the7-child\/css\/sprites-oss.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2458,6 +2640,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/dt-the7-child\/img\/favicon-oss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15825,
+		"inputAbbreviatedPath": "\/dt-the7-child\/img\/favicon-oss.png",
+		"outputAbbreviatedPath": "\/dt-the7-child\/img\/favicon-oss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dt-the7-child\/img\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5480,
+		"inputAbbreviatedPath": "\/dt-the7-child\/img\/favicon.png",
+		"outputAbbreviatedPath": "\/dt-the7-child\/img\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dt-the7-child\/img\/footer-oss.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11440,
+		"inputAbbreviatedPath": "\/dt-the7-child\/img\/footer-oss.jpg",
+		"outputAbbreviatedPath": "\/dt-the7-child\/img\/footer-oss.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/dt-the7-child\/img\/footer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42068,
+		"inputAbbreviatedPath": "\/dt-the7-child\/img\/footer.jpg",
+		"outputAbbreviatedPath": "\/dt-the7-child\/img\/footer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/dt-the7-child\/img\/header-v2-optimized-oss.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2560,11 +2786,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/dt-the7-child\/style.compressed.css": {
+	"\/dt-the7-child\/style-oss.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/dt-the7-child\/style.compressed.css",
+		"inputAbbreviatedPath": "\/dt-the7-child\/style-oss.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2574,15 +2800,6 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/dt-the7-child\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/dt-the7-child\/style.reg.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/dt-the7-child\/style.reg.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3794,17 +4011,6 @@
 		"initialSize": 11049,
 		"inputAbbreviatedPath": "\/dt-the7\/images\/footer-divider.jpg",
 		"outputAbbreviatedPath": "\/dt-the7\/images\/footer-divider.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/dt-the7\/images\/footer.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 42068,
-		"inputAbbreviatedPath": "\/dt-the7\/images\/footer.jpg",
-		"outputAbbreviatedPath": "\/dt-the7\/images\/footer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14308,6 +14514,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/dt-the7\/js\/main_js_only.js",
 		"outputAbbreviatedPath": "\/dt-the7\/js\/min\/main_js_only-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/dt-the7\/js\/min\/accordion-checkout-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/dt-the7\/js\/min\/accordion-checkout-min.js",
+		"outputAbbreviatedPath": "\/dt-the7\/js\/min\/min\/accordion-checkout-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
