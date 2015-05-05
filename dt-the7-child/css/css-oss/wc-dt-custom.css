@@ -172,12 +172,6 @@
 .woocommerce .posted_in {
   display: block; }
 
-.woocommerce-page #page .single_add_to_cart_button,
-#page .single_add_to_cart_button {
-  padding-top: 9px;
-  padding-bottom: 9px;
-  line-height: 18px; }
-
 .related.products {
   clear: both; }
 
@@ -243,10 +237,6 @@ ul.product_list_widget li img {
 
 .woocommerce.widget_product_search #searchform {
   margin-bottom: 15px; }
-
-.woocommerce-page #page div.product form.cart,
-.woocommerce-page #page #content div.product form.cart {
-  margin-bottom: 10px; }
 
 .single-product .related.products {
   clear: both; }
