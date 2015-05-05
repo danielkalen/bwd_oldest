@@ -4753,57 +4753,45 @@ div.wpb_slider_area .item {
       @media screen and (max-width: 370px) {
         #jckqv #jckqv_summary .summary .woocommerce-review-link {
           display: none; } }
-    #jckqv #jckqv_summary .summary .price-box {
-      min-width: 0 !important;
-      box-sizing: border-box; }
-      @media screen and (max-width: 1020px) {
-        #jckqv #jckqv_summary .summary .price-box {
-          width: 100%;
-          padding: 13px !important; } }
-      #jckqv #jckqv_summary .summary .price-box > div {
-        width: 29.92424% !important;
-        min-width: 0 !important;
-        float: left !important; }
-        #jckqv #jckqv_summary .summary .price-box > div .price {
-          padding: 5px 0 0 !important; }
-        #jckqv #jckqv_summary .summary .price-box > div .amount {
-          font-size: 17.5px; }
-          @media screen and (max-width: 370px) {
-            #jckqv #jckqv_summary .summary .price-box > div .amount {
-              font-size: 15px; } }
-        #jckqv #jckqv_summary .summary .price-box > div .per-unit {
-          font-size: 12px !important; }
-          @media screen and (max-width: 370px) {
-            #jckqv #jckqv_summary .summary .price-box > div .per-unit {
-              font-size: 10.5px !important; } }
-        @media screen and (max-width: 370px) {
-          #jckqv #jckqv_summary .summary .price-box > div del span {
-            font-size: 13px !important; } }
-        #jckqv #jckqv_summary .summary .price-box > div del {
-          left: 0; }
-      #jckqv #jckqv_summary .summary .price-box form.cart {
-        width: 67.47967%;
-        float: left !important; }
-        #jckqv #jckqv_summary .summary .price-box form.cart .quantity-box {
-          width: 48.99598% !important;
-          min-width: 62px !important; }
-          #jckqv #jckqv_summary .summary .price-box form.cart .quantity-box .quantity {
-            margin: 0 1.75em !important;
-            margin: 0 23.5% !important; }
-            #jckqv #jckqv_summary .summary .price-box form.cart .quantity-box .quantity .input-text::-webkit-outer-spin-button, #jckqv #jckqv_summary .summary .price-box form.cart .quantity-box .quantity .input-text::-webkit-inner-spin-button {
-              -webkit-appearance: none;
-              margin: 0; }
-          #jckqv #jckqv_summary .summary .price-box form.cart .quantity-box .quantity-label, #jckqv #jckqv_summary .summary .price-box form.cart .quantity-box .quantity.buttons_added .input-text {
-            font-size: 11px; }
-        #jckqv #jckqv_summary .summary .price-box form.cart .button {
-          width: 51.00402% !important;
-          font-size: 13px !important;
-          font-weight: 700 !important; }
-          @media screen and (max-width: 355px) {
-            #jckqv #jckqv_summary .summary .price-box form.cart .button {
-              font-size: 11px !important; } }
-  #jckqv #jckqv_summary .button {
-    width: 113px !important; }
+  @media screen and (max-width: 1024px) {
+    #jckqv #jckqv_summary .price-box {
+      height: 90px; } }
+  @media screen and (max-width: 1024px) {
+    #jckqv #jckqv_summary .price-box-wrapper {
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -o-transform: translateY(-50%);
+      transform: translateY(-50%);
+      right: auto;
+      width: 32%;
+      text-align: left; } }
+  #jckqv #jckqv_summary .price-box-wrapper .price {
+    font-size: 20px; }
+    @media screen and (max-width: 1024px) {
+      #jckqv #jckqv_summary .price-box-wrapper .price {
+        top: 0;
+        padding-top: 0;
+        padding-bottom: 0; }
+        .bwd #jckqv #jckqv_summary .price-box-wrapper .price {
+          top: -7px;
+          padding-top: 6px;
+          padding-bottom: 6px; } }
+    #jckqv #jckqv_summary .price-box-wrapper .price .per-unit {
+      font-size: 14px; }
+      @media screen and (max-width: 400px) {
+        #jckqv #jckqv_summary .price-box-wrapper .price .per-unit {
+          display: none; } }
+  @media screen and (max-width: 1024px) {
+    #jckqv #jckqv_summary .price-box form.cart {
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -o-transform: translateY(-50%);
+      transform: translateY(-50%);
+      left: auto;
+      bottom: auto;
+      max-width: 68.005%; } }
+  #jckqv #jckqv_summary .price-box form.cart .quantity-box {
+    width: 41.56%; }
   #jckqv .onsale {
     position: absolute;
     top: 0px;
@@ -5034,8 +5022,7 @@ button.mfp-arrow, button.mfp-arrow:hover, .mfp-close-btn-in button.mfp-close, .m
   max-width: 800px;
   text-align: left;
   margin: 30px auto;
-  position: relative;
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; }
+  position: relative; }
 
 @media (max-width: 1020px) {
   #jckqv {
@@ -5045,19 +5032,12 @@ button.mfp-arrow, button.mfp-arrow:hover, .mfp-close-btn-in button.mfp-close, .m
 /* QV Button */
 /* Magnific Specific */
 /* Qv Typography */
-#jckqv h1, #jckqv p {
-  font-family: 'open sans', Arial, Helvetica, sans-serif;
-  font-style: normal; }
-
 #jckqv h1 {
   font-size: 26px;
   font-weight: 700;
   color: #585858 !important;
   margin: 0 0 15px;
   line-height: 1.2; }
-
-#jckqv p {
-  font-weight: normal; }
 
 /* Images */
 #jckqv_images_wrap {
