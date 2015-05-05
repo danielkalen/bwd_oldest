@@ -292,24 +292,35 @@ li.product:hover .hover-product {
       position: relative;
       @media screen and (max-width: 440px) {float: none !important; width: 100%; text-align: center;}
       @media screen and (min-width: 760px) and (max-width: 1024px) {float: none !important; width: 100%; text-align: center;}
-
+      .price-wrap {
+        position: relative;
+      }
       .price {
-        margin-bottom: 0 !important;
-        font-family: Open Sans !important;
-        color:  $primary-color !important;
+        margin-bottom: 0;
+        font-family: Open Sans;
+        color:  $primary-color;
         font-size: 23px;
-        font-weight: 600 !important;
-        padding-top: 5px !important;
+        font-weight: 600;
+        padding-top: 5px;
 
         @media screen and (max-width: 760px) {
-          font-size: 20px !important;
-          padding-top: 9px !important;          
+          font-size: 20px;
+          padding-top: 9px;          
         }
-        @media screen and (max-width: 440px) {font-size: 25px !important; padding-top: 0 !important; padding-bottom: 6px !important;}
-        @media screen and (min-width: 760px) and (max-width: 1024px) {font-size: 25px !important; padding-top: 0 !important; padding-bottom: 6px !important;}
+        @media screen and (max-width: 440px) {font-size: 25px; padding-top: 0; padding-bottom: 6px;}
+        @media screen and (min-width: 760px) and (max-width: 1024px) {font-size: 25px; padding-top: 0; padding-bottom: 6px;}
+        
+        &.unit {
+          font-size: 17px;
+          position: absolute;
+          bottom: -18px;
 
+          .per-unit {
+            font-size: 13px;
+          }
+        }
         .per-unit {
-          font-size:16px !important;
+          font-size:16px;
 
         }
 
@@ -324,6 +335,7 @@ li.product:hover .hover-product {
         }
       }
     }
+
 
     form.cart {
       margin-bottom: 0 !important;
@@ -394,6 +406,31 @@ li.product:hover .hover-product {
       }
     }
   }
+}
+
+.bwd .summary .price-box > div .price {
+// .summary .price-box > div .price {
+  position: relative;
+  bottom: 7px;
+
+  @media screen and (max-width:1024px) {
+    text-align: left;
+    font-size: 23px;
+    // padding-left: 10%;
+    padding-left: 17px;
+    box-sizing: border-box;
+
+    &.unit {
+      // font-size: 22px;
+      bottom: 4px;
+      right: 17px;
+
+      // .per-unit {
+      //   font-size: 16px;
+      // }
+    }
+  }
+
 }
 
 div.images {

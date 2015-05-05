@@ -4,103 +4,14 @@
 .nobr {
   white-space: nowrap; }
 
-/**
- * Objects
- */
-/* Contains base colours like @primary */
-/* Colours */
-/* Price slider bar / layered nav UI */
-/* Text on tertiary colour bg */
-/* Price slider bg */
-/* =Global styles/layout
--------------------------------------------------------------- */
-/* =Utilities
--------------------------------------------------------------- */
-/*.wc-forward:after,
-.wc-forward a:after {
-  font-family: 'WooCommerce';
-  speak: none;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  margin-left: 7px;
-  content: "\e029";
-  font-size: .75em;
-}
-.wc-backward:before,
-.wc-backward a:before {
-  font-family: 'WooCommerce';
-  speak: none;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  margin-right: 7px;
-  content: "\e02f";
-  font-size: .75em;
-}
- =Main Styles (namespace to avoid conflict with common global class names)
--------------------------------------------------------------- */
-.woocommerce {
-  /* =Product Page
-	-------------------------------------------------------------- */
-  /* Sale labels */
-  /* =Product Loops
-	-------------------------------------------------------------- */
-  /* =Buttons
-	-------------------------------------------------------------- */
-  /* =Quantity inputs
-	-------------------------------------------------------------- */
-  /* =Reviews/comments
-	-------------------------------------------------------------- */
-  /* Star rating */
-  /* =Tables
-	-------------------------------------------------------------- */
-  /* =Cart
-	-------------------------------------------------------------- */
-  /* =Cart Sidebar
-	-------------------------------------------------------------- */
-  /* =Cart Page
-	-------------------------------------------------------------- */
-  /* =Forms
-	-------------------------------------------------------------- */
-  /* =Checkout
-	-------------------------------------------------------------- */
-  /* Payment box - appears on checkout and page page */
-  /* =Order Page
-	-------------------------------------------------------------- */
-  /* =Account Page
-	-------------------------------------------------------------- */
-  /* =Layered Nav Widget
-	-------------------------------------------------------------- */
-  /* =Price Filter Widget
-	-------------------------------------------------------------- */ }
-
 .woocommerce div.product {
   margin-bottom: 0;
-  position: relative;
-  /* Main product title */
-  /* Price */
-  /* Stock */
-  /* Product image and thumbnail */
-  /* Summary div (contains title, price etc) */
-  /* Social networking */
-  /* Tabs on the product page */
-  /* Cart button */
-  /* add to cart forms */ }
+  position: relative; }
 
 .woocommerce div.product .product_title {
   clear: none;
   margin-top: 0;
   padding: 0; }
-
-.woocommerce div.product span.price,
-.woocommerce div.product p.price {
-  color: #85ad74;
-  font-size: 1.25em; }
 
 .woocommerce div.product span.price ins,
 .woocommerce div.product p.price ins {

@@ -596,7 +596,7 @@ if ( ! function_exists( 'presscore_enqueue_scripts' ) ) :
 				$maincss = '/wp-content/themes/dt-the7-child/style-oss.css';
 				break;
 
-			case 'BWD':
+			case 'BWD Wholesale':
 				$folder = '../dt-the7-child/css/css/';
 				$maincss = '/wp-content/themes/dt-the7-child/style.css';
 				break;
@@ -969,7 +969,7 @@ if ( ! function_exists( 'presscore_body_class' ) ) :
 				$classes[] = 'onlyonestopshop';
 				break;
 
-			case 'BWD':
+			case 'BWD Wholesale':
 				$classes[] = 'bwd';
 				break;
 		}

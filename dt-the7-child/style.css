@@ -5477,29 +5477,37 @@ li.product:hover .hover-product {
           float: none !important;
           width: 100%;
           text-align: center; } }
+      .summary .price-box > div .price-wrap {
+        position: relative; }
       .summary .price-box > div .price {
-        margin-bottom: 0 !important;
-        font-family: Open Sans !important;
-        color: #ce337b !important;
+        margin-bottom: 0;
+        font-family: Open Sans;
+        color: #ce337b;
         font-size: 23px;
-        font-weight: 600 !important;
-        padding-top: 5px !important; }
+        font-weight: 600;
+        padding-top: 5px; }
         @media screen and (max-width: 760px) {
           .summary .price-box > div .price {
-            font-size: 20px !important;
-            padding-top: 9px !important; } }
+            font-size: 20px;
+            padding-top: 9px; } }
         @media screen and (max-width: 440px) {
           .summary .price-box > div .price {
-            font-size: 25px !important;
-            padding-top: 0 !important;
-            padding-bottom: 6px !important; } }
+            font-size: 25px;
+            padding-top: 0;
+            padding-bottom: 6px; } }
         @media screen and (min-width: 760px) and (max-width: 1024px) {
           .summary .price-box > div .price {
-            font-size: 25px !important;
-            padding-top: 0 !important;
-            padding-bottom: 6px !important; } }
+            font-size: 25px;
+            padding-top: 0;
+            padding-bottom: 6px; } }
+        .summary .price-box > div .price.unit {
+          font-size: 17px;
+          position: absolute;
+          bottom: -18px; }
+          .summary .price-box > div .price.unit .per-unit {
+            font-size: 13px; }
         .summary .price-box > div .price .per-unit {
-          font-size: 16px !important; }
+          font-size: 16px; }
         .summary .price-box > div .price del {
           position: absolute;
           top: -15px;
@@ -5589,6 +5597,19 @@ li.product:hover .hover-product {
             padding: 0 !important;
             top: -2px;
             display: inline !important; }
+
+.bwd .summary .price-box > div .price {
+  position: relative;
+  bottom: 7px; }
+  @media screen and (max-width: 1024px) {
+    .bwd .summary .price-box > div .price {
+      text-align: left;
+      font-size: 23px;
+      padding-left: 17px;
+      box-sizing: border-box; }
+      .bwd .summary .price-box > div .price.unit {
+        bottom: 4px;
+        right: 17px; } }
 
 div.images {
   width: 46.81934% !important;
